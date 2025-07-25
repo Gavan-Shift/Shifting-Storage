@@ -1,0 +1,12 @@
+# Interactive Mode: 대화형 모드
+# 대화형 모드에서는 Python 명령어를 한 줄씩 입력하고 실행할 수 있다.
+
+## 하기 명령어들을 Terminal 입력
+
+### 1. Python 입력
+### 1-2. ">>>"은 python에 진입함을 의미
+### 2. `print("hello, world")` 입력
+### 2-1. 실행(디버깅)이 즉각 자동 실행됨
+### 3. `exit()` 입력 : Python 대화형 모드 종료
+
+
